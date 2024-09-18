@@ -2,7 +2,7 @@
 ## Installation
 1.  Clone the repository:
 ```bash
-git clone https://github.com/diwash-9/Genetic-Algorithm.git
+git clone https://github.com/nayannepal000/genetic_algo.git
 ```
 ## Usage
 To run the genetic algorithm, execute the main script GeneticAlgorithmImplementation.ipynb. Ensure Python 3.x is installed on your system.
